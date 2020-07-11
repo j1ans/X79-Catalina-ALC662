@@ -13,4 +13,14 @@ HUANAN X79 Clover EFI 10.15
 	•	声卡：ALC662 
 	•	网卡：Rtl8100/8600
 
-Config我直接使用的amd-plist 如果是n卡的话直接在clover configurator把注入id改为17重启就行
+Config我直接使用的amd-plist 如果是n卡的话直接在clover configurator把注入id改为17 或者12 16重启就行
+
+AppleAlc Layout表测试 ALC662
+5 无声
+7 无声
+11 无声
+12 有声 只能使用前面
+13 无声
+15 无声
+16 有声 只能使用后面
+17 有声 只能使用后面
