@@ -4,7 +4,7 @@ Hackintosh Clover EFI For X79 ALC662 in MacOS Catalina
 华南X79 CLOVER 10.15 配置
 HUANAN X79 Clover EFI 10.15
 
-修改了声卡配置 因为cheneyveroncheneyveron大佬的声卡配置似乎在10.15用不了 所以修改了配置文件  使其可以正常使用 但是只能使用后面输出
+修改了声卡配置 因为cheneyveron大佬的声卡配置似乎在10.15用不了 所以修改了配置文件  使其可以正常使用 但是只能使用后面输出
 
 我的配置 （复制一下大佬的）
 	•	主板: 华南金牌 X79 V2.46 ATX
