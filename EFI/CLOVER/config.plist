@@ -45,16 +45,6 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>Rename HDAS to HDEF</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>SERBUw==</data>
-					<key>Replace</key>
-					<data>SERFRg==</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
 					<string>change USBE to EH02</string>
 					<key>Disabled</key>
 					<false/>
@@ -402,36 +392,6 @@
 					<data>pAoPW4NLBEMxMUQAEAQAAA==</data>
 					<key>Replace</key>
 					<data>pAoPW4NLBEMxMUSbEAQAAA==</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change AZAL to HDEF</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>QVpBTA==</data>
-					<key>Replace</key>
-					<data>SERFRg==</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Rename GFX0 to IGPU (Graphics)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>R0ZYMA==</data>
-					<key>Replace</key>
-					<data>SUdQVQ==</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>Rename SAT0 to SATA (Disk)</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>U0FUMA==</data>
-					<key>Replace</key>
-					<data>U0FUQQ==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
